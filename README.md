@@ -58,11 +58,16 @@ I build cross-platform **Flutter** apps wired directly into **Odoo**. I speciali
 
 ---
 
-### ⚡ Currently Building
+### 🖥️ My Workspace & Engineering Tooling
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Animated coding illustration" />
-</div>
+> 💡 **Note:** My daily commits and enterprise client work are hosted in private **GitLab** repositories. Here is a look under the hood at the stack and principles I use to build them:
+
+- **Architecture & State:** Strict adherence to **Clean Architecture** principles, managing complex app state efficiently with **Riverpod** and **Provider**.
+- **UI & Layouts:** Crafting pixel-perfect, highly **Responsive UIs** across mobile and tablet, while leveraging tools like **Stitch AI** for rapid UI generation.
+- **Backend & Databases:** Deep expertise in **Supabase**, Odoo JSON-RPC, and flexible integrations with versatile SQL/NoSQL databases.
+- **Local Persistence:** **Hive** & **SQLite** for robust offline-first background sync and conflict resolution.
+- **Environment:** **Windows 10** utilizing Android Studio and agent-first AI environments like **Google Antigravity IDE**.
+- **Testing:** Physical Android/iOS devices for real-world GPS verification and flawless Arabic RTL layout mirroring.
 
 ### 🤝 Connect with Me
 

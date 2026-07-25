@@ -58,10 +58,10 @@ I build cross-platform **Flutter** apps wired directly into **Odoo**. I speciali
 
 ---
 
-### 🔥 GitHub Activity & Streak
+### ⚡ Currently Building
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Habeeb37733&theme=transparent&hide_border=true&title_color=02569B&icon_color=02569B" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Animated coding illustration" />
 </div>
 
 ### 🤝 Connect with Me

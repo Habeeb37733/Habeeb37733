@@ -61,8 +61,7 @@ I build cross-platform **Flutter** apps wired directly into **Odoo**. I speciali
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- NOTE: Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=02569B&icon_color=02569B" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Habeeb37733&show_icons=true&theme=transparent&hide_border=true&title_color=02569B&icon_color=02569B" alt="GitHub Stats" />
 </div>
 
 ---
